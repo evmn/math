@@ -1,9 +1,12 @@
 ## 已知条件
 
-已知ABCD为位于第一象限的长方形，AB边长为a,BC边长为b.\space A点极\hspace{10mm}\hspace{10mm}\hspace{10mm}\hspace{10mm}\\\space \space \space \space 坐标(R_{a},\theta_{a}),C点极坐标(R_{c},\theta_{c}).\space 长方形内一点M距离AD边为a_{1},距\hspace{10mm}\hspace{10mm}\hspace{10mm}\hspace{10mm}\\离AB边为b_{1},a_{1}=\frac{a}{m},b_{1}=\frac{b}{n},求M点极坐标.\hspace{10mm}\hspace{10mm}\hspace{10mm}\hspace{28mm}
+已知ABCD为位于第一象限的长方形，AB边长为a,BC边长为b.\space A点极\hspace{10mm}\hspace{10mm}\hspace{10mm}\hspace{10mm}\\\space \space \space \space 坐标(R_{a},\theta_{a}),C点极坐标(R_{c},\theta_{c}).\space 长方形内一点M距离AD边为a_{1},距\hspace{10mm}\hspace{10mm}\hspace{10mm}\hspace{10mm}\\离AB边为b_{1},其中a_{1}=\frac{a}{m},b_{1}=\frac{b}{n}(m,n为正整数),求M点极坐标.\hspace{10mm}\hspace{10mm}\hspace{13mm}
+
+
+
 =========
 
-过M点做垂直于AD的直线MP交AD于P点，设P点坐标为（x_{p},y_{p}），m点坐标为（x_{m},y_{m}）。\\AC与水平轴(负轴方向，后同)的夹角为\alpha，AC与AP的夹角为\theta，AP与水平轴的夹角为\beta，则\hspace{12mm}\\有\beta=\alpha-\theta.\hspace{98mm}
+过M点做垂直于AD的直线MP交AD于P点，设P点坐标为（x_{p},y_{p}），M点坐标为（x_{m},y_{m}）。\\AC与水平轴(负轴方向，后同)的夹角为\alpha，AC与AP的夹角为\theta，AP与水平轴的夹角为\beta，则\hspace{12mm}\\有\beta=\alpha-\theta.\hspace{98mm}
 
 
 
